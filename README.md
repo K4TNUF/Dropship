@@ -1,62 +1,40 @@
-How to Dropship for Absolutely $0!
-Follow these steps to start your dropshipping business without spending any money.
+Follow this guide to start your dropshipping business for free and join the course for more detailed steps and support.
 
-Find Your Product
 
-Search for trending products on platforms like TikTok or Amazon using keywords like "TikTok made me buy it."
-Choose a Name for Your Business
+1. First find your product. (e.g. Go on tiktok or amazon and search something like "Tiktok made me buy it.")
 
-Visit Namelix and generate a professional business name. Avoid unprofessional names (e.g., "Rockstar Leon").
-Create an Email Account
+2. Find a name for your Buissness.  Go on https://namelix.com/ And type a name that you'd like. Some thing professinal. (i.e. Rockstar leon, Its unprofessinal.)
 
-Use Gmail, Yahoo, or Outlook. Ensure your business name is included in your email address.
-Tip: If you can't use a phone number, create an email account on Proton.me.
-Set Up Your Store
+3. Create a mail. Use gmail, Yahoo, Outlook. Make sure your Buissnuss name is in it. (Does'nt really matter what you use. <-- Tip if you are unable to use a phone number create a mail on Proton.me)
 
-Go to Big Cartel and click "Open Your Store" then "Sign Up for Free" to create an account. Enter your chosen store name and fill in the required details.
-Verify Your Email
+4. Start your store. Go on https://www.bigcartel.com/?r=ecm-bewb Press "open your store" Then "sign up for free" And make an account. For your store name enter whatever you were able to find. And press "let's Go", And fill everything in.
 
-Check your email for a verification link from Big Cartel. Click "VERIFY EMAIL" and refresh your Big Cartel page.
-Add a Product
+5. Verify mail. Go on ur mail and press "VERIFY EMAIL" And go back to bigcartel and refreash your page.
 
-Click "Add a Product." Enter the product name in the first box and a description in the second box.
-Tip: If you struggle with the description, use ChatGPT to help you expand on it. Keep it concise. Add hashtags and set the price (enable "on sale").
-Add Product Options (Colors)
+6. Press "Add a product" Put your procuct name in the first box. Second box put the description <--Tip if you dont know how to explain ut prodcut, Go on chatgpt and explain it as best as you can. And ask for chatgpt to extend it. (Try to keep it short) Add some hastags, and the price. (enable "on sale").
 
-Click "Add Group Options," then "Get Started." Enter color options (e.g., "Colors") and specify the main and secondary colors of your product.
-Add Product Options (Sizes)
+7. Press "Add group options" then "Get started" Then enter (e.g. Colors) In the "Colors name" put the main color of your product. Add an other one, And Put the Secondary color of your product. Etc, etc
 
-Click "Add Group Options," then "Add Group." Enter size options (e.g., "Size" in inches).
-Upload a Product Photo
+8. Press "Add group options" then Press "Add group" And in the Enter in "Size" Then in "group name" Put the Size of your product in Inches.
 
-Scroll up and add a photo of your product.
-Enable Inventory Tracking and Set Shipping
+9. Scroll up and ad a photo of your product.
 
-Enable "Inventory Tracking." In the "Shipping" section, set the price to $6.95 for the "Everywhere" tab. Leave the "Tax Code" empty.
-Save and Preview
+10. Enable "Enable inventory tracking" And in "Shipping" in the "Everywhere tab put $6.95 In "Tax code" Leave it empty.
 
-Click "Save" and preview to ensure everything is working correctly.
-Customize Your Store Design (Optional)
+11. Press "Save" And preview if everything works.
 
-Go to your account, click "Design," and customize your store's design.
-Tip: In settings, you can upload logos, backgrounds, promo images, and set background colors.
-Add a Refund Policy (Optional)
+12. (Optinal) Go to ur acount And press "Design" And make ur Design <--Tip go to settings and you can upload logos, Backgrounds, Promo image, Background colors Etc, Etc.
 
-In "Account > Design > Pages > New Page," you can add a refund policy. Alternatively, include a note on your page stating "Refund Policy NOT ACCEPTED."
-Create a FAQ Page
+13. In Account > Design > Pages > Newpage you can add a Refund Policy. This is optional but if you want want a Refund policy just add a note at the bottom of ur page saying "Refund Policy NOT ACCEPTED"
 
-Add a page named "FAQ" and fill in common questions and answers.
-Publish Your Store
+14. Also make a page Named "FAQ" And fill some FAQ'S in. 
 
-Once everything is set, click "Publish."
-Update Account Information
+15. Once you have added those things, Just simply press "Publish"
 
-Go to your account and update your location, payment settings, billing, and shipping profiles based on your information.
-Turn Off Maintenance Mode
+16. Go to your account and scroll down and Change the following things Based on ur Info "Location, Get Paid, Billing, Shipping profiles data."
 
-Scroll up and disable "Maintenance Mode."
+17. Once you've completed everything scroll up and turn off "Maintence mode"
+
 DROPSHIP COURSE STEP BY STEP MADE ON DISCORD.GG/K4TNUF OR EXZ#5133
 
 | STEP BY STEP | NO SHOPIFY & NO ADS! (FREE COURSE) | ALL FREE FOR $0.
-
-Follow this guide to start your dropshipping business for free and join the course for more detailed steps and support.
